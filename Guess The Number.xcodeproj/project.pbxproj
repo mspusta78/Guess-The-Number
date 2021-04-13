@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 52;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -11,6 +11,17 @@
 		BD2F182625DA1BF300F0C909 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD2F182525DA1BF300F0C909 /* ContentView.swift */; };
 		BD2F182825DA1BF500F0C909 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD2F182725DA1BF500F0C909 /* Assets.xcassets */; };
 		BD2F182B25DA1BF500F0C909 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD2F182A25DA1BF500F0C909 /* Preview Assets.xcassets */; };
+		BD8C100525F9998E00385880 /* iTunesResults.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD8C100425F9998E00385880 /* iTunesResults.swift */; };
+		BD8C103025FC268E00385880 /* URLImage in Frameworks */ = {isa = PBXBuildFile; productRef = BD8C102F25FC268E00385880 /* URLImage */; };
+		BD8C103325FD2C9000385880 /* HighScoreView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD8C103225FD2C9000385880 /* HighScoreView.swift */; };
+		BD8C103825FD959600385880 /* GameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD8C103725FD959600385880 /* GameView.swift */; };
+		BDBDA21825F599AB00455F5C /* Main.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDBDA21725F599AB00455F5C /* Main.swift */; };
+		BDBDA22125F6BF9600455F5C /* winner.json in Resources */ = {isa = PBXBuildFile; fileRef = BDBDA22025F6BF9600455F5C /* winner.json */; };
+		BDBDA22525F6C1B400455F5C /* Lottie in Frameworks */ = {isa = PBXBuildFile; productRef = BDBDA22425F6C1B400455F5C /* Lottie */; };
+		BDBDA22825F6C38000455F5C /* LottieView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDBDA22725F6C38000455F5C /* LottieView.swift */; };
+		BDBDA22E25F6C88C00455F5C /* tryagain.json in Resources */ = {isa = PBXBuildFile; fileRef = BDBDA22D25F6C88C00455F5C /* tryagain.json */; };
+		BDBDA23225F6CA7000455F5C /* questionmark.json in Resources */ = {isa = PBXBuildFile; fileRef = BDBDA23125F6CA7000455F5C /* questionmark.json */; };
+		BDBDA23525F7107000455F5C /* TestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDBDA23425F7107000455F5C /* TestView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +31,15 @@
 		BD2F182725DA1BF500F0C909 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BD2F182A25DA1BF500F0C909 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		BD2F182C25DA1BF500F0C909 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BD8C100425F9998E00385880 /* iTunesResults.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iTunesResults.swift; sourceTree = "<group>"; };
+		BD8C103225FD2C9000385880 /* HighScoreView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HighScoreView.swift; sourceTree = "<group>"; };
+		BD8C103725FD959600385880 /* GameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameView.swift; sourceTree = "<group>"; };
+		BDBDA21725F599AB00455F5C /* Main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Main.swift; sourceTree = "<group>"; };
+		BDBDA22025F6BF9600455F5C /* winner.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = winner.json; sourceTree = "<group>"; };
+		BDBDA22725F6C38000455F5C /* LottieView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LottieView.swift; sourceTree = "<group>"; };
+		BDBDA22D25F6C88C00455F5C /* tryagain.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = tryagain.json; sourceTree = "<group>"; };
+		BDBDA23125F6CA7000455F5C /* questionmark.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = questionmark.json; sourceTree = "<group>"; };
+		BDBDA23425F7107000455F5C /* TestView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -27,6 +47,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BD8C103025FC268E00385880 /* URLImage in Frameworks */,
+				BDBDA22525F6C1B400455F5C /* Lottie in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -52,11 +74,18 @@
 		BD2F182225DA1BF300F0C909 /* Guess The Number */ = {
 			isa = PBXGroup;
 			children = (
+				BDBDA21B25F69C6C00455F5C /* LottieFiles */,
 				BD2F182325DA1BF300F0C909 /* Guess_The_NumberApp.swift */,
 				BD2F182525DA1BF300F0C909 /* ContentView.swift */,
+				BDBDA22725F6C38000455F5C /* LottieView.swift */,
+				BDBDA21725F599AB00455F5C /* Main.swift */,
+				BD8C103225FD2C9000385880 /* HighScoreView.swift */,
+				BD8C103725FD959600385880 /* GameView.swift */,
 				BD2F182725DA1BF500F0C909 /* Assets.xcassets */,
 				BD2F182C25DA1BF500F0C909 /* Info.plist */,
 				BD2F182925DA1BF500F0C909 /* Preview Content */,
+				BDBDA23425F7107000455F5C /* TestView.swift */,
+				BD8C100425F9998E00385880 /* iTunesResults.swift */,
 			);
 			path = "Guess The Number";
 			sourceTree = "<group>";
@@ -67,6 +96,16 @@
 				BD2F182A25DA1BF500F0C909 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		BDBDA21B25F69C6C00455F5C /* LottieFiles */ = {
+			isa = PBXGroup;
+			children = (
+				BDBDA22025F6BF9600455F5C /* winner.json */,
+				BDBDA23125F6CA7000455F5C /* questionmark.json */,
+				BDBDA22D25F6C88C00455F5C /* tryagain.json */,
+			);
+			path = LottieFiles;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -85,6 +124,10 @@
 			dependencies = (
 			);
 			name = "Guess The Number";
+			packageProductDependencies = (
+				BDBDA22425F6C1B400455F5C /* Lottie */,
+				BD8C102F25FC268E00385880 /* URLImage */,
+			);
 			productName = "Guess The Number";
 			productReference = BD2F182025DA1BF300F0C909 /* Guess The Number.app */;
 			productType = "com.apple.product-type.application";
@@ -112,6 +155,10 @@
 				Base,
 			);
 			mainGroup = BD2F181725DA1BF300F0C909;
+			packageReferences = (
+				BDBDA22325F6C1B400455F5C /* XCRemoteSwiftPackageReference "lottie-ios" */,
+				BD8C102E25FC268E00385880 /* XCRemoteSwiftPackageReference "url-image" */,
+			);
 			productRefGroup = BD2F182125DA1BF300F0C909 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -127,7 +174,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				BD2F182B25DA1BF500F0C909 /* Preview Assets.xcassets in Resources */,
+				BDBDA22125F6BF9600455F5C /* winner.json in Resources */,
+				BDBDA23225F6CA7000455F5C /* questionmark.json in Resources */,
 				BD2F182825DA1BF500F0C909 /* Assets.xcassets in Resources */,
+				BDBDA22E25F6C88C00455F5C /* tryagain.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -139,7 +189,13 @@
 			buildActionMask = 2147483647;
 			files = (
 				BD2F182625DA1BF300F0C909 /* ContentView.swift in Sources */,
+				BDBDA23525F7107000455F5C /* TestView.swift in Sources */,
+				BDBDA21825F599AB00455F5C /* Main.swift in Sources */,
+				BD8C103325FD2C9000385880 /* HighScoreView.swift in Sources */,
 				BD2F182425DA1BF300F0C909 /* Guess_The_NumberApp.swift in Sources */,
+				BD8C100525F9998E00385880 /* iTunesResults.swift in Sources */,
+				BD8C103825FD959600385880 /* GameView.swift in Sources */,
+				BDBDA22825F6C38000455F5C /* LottieView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -269,6 +325,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"Guess The Number/Preview Content\"";
+				DEVELOPMENT_TEAM = P6Z3US2MCA;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = "Guess The Number/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
@@ -290,6 +347,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "\"Guess The Number/Preview Content\"";
+				DEVELOPMENT_TEAM = P6Z3US2MCA;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = "Guess The Number/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
@@ -326,6 +384,38 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		BD8C102E25FC268E00385880 /* XCRemoteSwiftPackageReference "url-image" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/dmytro-anokhin/url-image";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 2.2.3;
+			};
+		};
+		BDBDA22325F6C1B400455F5C /* XCRemoteSwiftPackageReference "lottie-ios" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/airbnb/lottie-ios";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 3.2.1;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		BD8C102F25FC268E00385880 /* URLImage */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = BD8C102E25FC268E00385880 /* XCRemoteSwiftPackageReference "url-image" */;
+			productName = URLImage;
+		};
+		BDBDA22425F6C1B400455F5C /* Lottie */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = BDBDA22325F6C1B400455F5C /* XCRemoteSwiftPackageReference "lottie-ios" */;
+			productName = Lottie;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = BD2F181825DA1BF300F0C909 /* Project object */;
 }

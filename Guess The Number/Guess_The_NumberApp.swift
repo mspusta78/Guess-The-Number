@@ -12,6 +12,7 @@ struct Guess_The_NumberApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+//            TestView()
         }
     }
 }
