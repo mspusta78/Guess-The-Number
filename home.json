@@ -1,13 +1,35 @@
 {
-  "action":"Action 1",
-  "enrollDate":"Enroll Date",
-  "lifeNo":"Life No'",
-  "noSubscriptions":"Not an active subscriber",
-  "status":"Status",
-  "email": "Email",
-  "firstName": "First Name",
-  "lastName": "Last Name",
-  "name": "Name",
-  "phone": "Phone",
-  "address": "Address 1"
+    "error": {
+        "failed": "An error occurred while fetching the Convention info. Please refresh the page to try again.",
+        "notFound": "No Convention information found",
+        "fetchingContent": "An error occurred while fetching the rest of the Convention data.",
+        "tryAgain": "Press here to try again",
+        "vipTicketUpgradeError": "An error occurred. Please try again."
+    },
+    "header": {
+        "noTicket": "Welcome. To access our convention platform, please purchase a ticket.",
+        "or": "or",
+        "ticketType": "Your Ticket Type:",
+        "vip": "VIP",
+        "standard": "Standard",
+        "purchaseTicket": "Purchase Ticket",
+        "purchaseVipTicket": "Purchase VIP Ticket",
+        "purchaseStandardTicket": "Purchase Standard Ticket",
+        "upgradeToVipTicket": "Upgrade to VIP Ticket"
+    },
+    "content": {
+        "english": "English",
+        "spanish": "Spanish",
+        "french": "French",
+        "watchEvent": "Watch",
+        "viewProgram": "View Program",
+        "donate": "Donate",
+        "purchaseTicketForMonth": "Purchase {{month}} Ticket",
+        "ticketRequiredForEvent": "Ticket to the {{event}}",
+        "videosOfType": "{{type}} Videos",
+        "upcomingEvent": "Upcoming Event",
+        "videoPermissionsFuture": "Future Ticket Required to watch",
+        "videoPermissionsVIP": "VIP Ticket Required to Watch",
+        "notAvailable": "Coming Soon!"
+    }
 }
