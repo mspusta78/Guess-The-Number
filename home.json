@@ -1,35 +1,1996 @@
 {
-    "error": {
-        "failed": "An error occurred while fetching the Convention info. Please refresh the page to try again.",
-        "notFound": "No Convention information found",
-        "fetchingContent": "An error occurred while fetching the rest of the Convention data.",
-        "tryAgain": "Press here to try again",
-        "vipTicketUpgradeError": "An error occurred. Please try again."
-    },
-    "header": {
-        "noTicket": "Welcome. To access our convention platform, please purchase a ticket.",
-        "or": "or",
-        "ticketType": "Your Ticket Type:",
-        "vip": "VIP",
-        "standard": "Standard",
-        "purchaseTicket": "Purchase Ticket",
-        "purchaseVipTicket": "Purchase VIP Ticket",
-        "purchaseStandardTicket": "Purchase Standard Ticket",
-        "upgradeToVipTicket": "Upgrade to VIP Ticket"
-    },
-    "content": {
-        "english": "English",
-        "spanish": "Spanish",
-        "french": "French",
-        "watchEvent": "Watch",
-        "viewProgram": "View Program",
-        "donate": "Donate",
-        "purchaseTicketForMonth": "Purchase {{month}} Ticket",
-        "ticketRequiredForEvent": "Ticket to the {{event}}",
-        "videosOfType": "{{type}} Videos",
-        "upcomingEvent": "Upcoming Event",
-        "videoPermissionsFuture": "Future Ticket Required to watch",
-        "videoPermissionsVIP": "VIP Ticket Required to Watch",
-        "notAvailable": "Coming Soon!"
+  "wexoSlogan": {
+    "title": "Bitcoin and cryptocurrencies",
+    "description": "Buy and use Bitcoin and the best cryptocurrencies with the WEXO wallet. Check out cryptocurrency exchange rates and try cryptocurrency trading."
+  },
+  "Account": "Account",
+  "About Us": "About Us",
+  "Account disabled": "Account disabled",
+  "Account enabled": "Account enabled",
+  "Add": "Add",
+  "Add Documents": "Add Documents",
+  "Add Photos": "Add Photos",
+  "Add Registration": "Add Registration",
+  "Add Videos": "Add Videos",
+  "Add new category": "Add new category",
+  "Add new category failed": "Add new category failed.",
+  "Add new category successfully": "Add new category successfully.",
+  "Address": "Address",
+  "Admin": "Admin",
+  "Asc": "Asc",
+  "Availability": "Availability",
+  "Cancel": "Cancel",
+  "Category": "Category",
+  "Check In": "Check In",
+  "CheckIn Admin": "CheckIn Admin",
+  "Checked In": "Checked In",
+  "Checked In Time": "Checked In Time",
+  "Checkedin": "Checked in",
+  "City": "City",
+  "Clear filters": "Clear filters",
+  "Coming Soon": "Coming Soon",
+  "Complete your profile at the portal": "Complete your profile at the portal",
+  "Contact Name": "Contact Name",
+  "Continue": "Continue",
+  "Currently selected": "Currently selected",
+  "Czech": "Czech",
+  "Dashboard": "Dashboard",
+  "Delete account": "Delete account",
+  "Delete category failed": "Delete category failed.",
+  "Delete category successfully": "Delete category successfully.",
+  "Desc": "Desc",
+  "Description": "Description",
+  "Details": "Details",
+  "Disable account": "Disable account",
+  "Discover": "Discover",
+  "Do you want to delete category": "Do you want to delete category",
+  "Documents": "Documents",
+  "Edit": "Edit",
+  "Edit category": "Edit category",
+  "Email": "Email",
+  "Enable account": "Enable account",
+  "English": "English",
+  "Enter at least one field": "Enter at least one field",
+  "Entrance": "Entrance",
+  "Error while creating account": "Error while creating account",
+  "Error while resending code": "Error while resending code",
+  "Error while verifying email": "Error while verifying email",
+  "Error!": "Error!",
+  "Event Detail Setup": "Event Detail Setup",
+  "Event Details Setup": "Event Details Setup",
+  "Event Map": "Event Map",
+  "Event Program": "Event Program",
+  "Event Schedule": "Event Schedule",
+  "Export": "Export",
+  "Failed to delete media": "Failed to delete media",
+  "Favorite": "Favorite",
+  "Favorite Vendors": "Favorite Vendors",
+  "Featured Vendors": "Featured Vendors",
+  "Forgot Password": "Forgot Password",
+  "Forgot your password?": "Forgot your password?",
+  "Free": "Free",
+  "Generate": "Generate",
+  "Go back to login": "Go back to login",
+  "Hide": "Hide",
+  "HowHearAboutUs": "How Hear About Us",
+  "I am interested": "I am interested",
+  "If you are experiencing issues please check your spam email": "If you are experiencing issues please check your spam email",
+  "Interests": "Interests",
+  "Language": "Language",
+  "List of Attendees": "List of Attendees",
+  "List of Categories": "List of Categories",
+  "List of Events": "List of Events",
+  "List of Packages": "List of Packages",
+  "List of Vendors": "List of Vendors",
+  "List of Visitors": "List of Visitors",
+  "Location": "Location",
+  "Logout": "Logout",
+  "GiftCard": "Gift Cards",
+  "Loyalty Program": "Loyalty Program",
+  "Create Offers": "Create Offers",
+  "My Profiles": "My Profiles",
+  "Main Category": "Main Category",
+  "Main category is required": "Main category is required",
+  "Media": "Media",
+  "Media Gallery": "Media Gallery",
+  "Media deleted": "Media deleted",
+  "Name": "Name",
+  "No category found": "No category found",
+  "No language found": "No language found",
+  "No results": "No results",
+  "No results found": "No results found",
+  "No users found": "No users found",
+  "No vendor yet": "No vendor yet",
+  "None": "None",
+  "Next": "Next",
+  "Finish": "Finish",
+  "Previous": "Previous",
+  "Package": "Package",
+  "Package is required": "Package is required",
+  "Password": "Password",
+  "Phone": "Phone",
+  "Photos": "Photos",
+  "Please fill in all the required fields": "Please fill in all the required fields",
+  "Podium and lecture hall": "Podium and lecture hall",
+  "Polish": "Polish",
+  "Raffles": "Raffles",
+  "Required": "Required",
+  "Read more": "Read more",
+  "Register": "Register",
+  "Create Profile": "Create Profile",
+  "Registration Completed": "Registration Completed",
+  "Reports": "Reports",
+  "Reserved": "Reserved",
+  "Reset": "Reset",
+  "Reset password": "Reset password",
+  "Reset password email sent": "Reset password email sent",
+  "Role": "Role",
+  "Save": "Save",
+  "Scan QR Code": "Scan QR Code",
+  "Search category": "Search category",
+  "Search language": "Search language",
+  "Select Type": "Select Type",
+  "Select Your Interests": "Select Your Interests",
+  "Select category": "Select category",
+  "Select language": "Select language",
+  "Selected space is not available": "Selected space is not available",
+  "Send Reset Password Email": "Send Reset Password Email",
+  "Show All": "Show All",
+  "Show less": "Show less",
+  "Show map": "Show map",
+  "Show ratings": "Show ratings",
+  "Size": "Size",
+  "Slovak": "Slovak",
+  "Space": "Space",
+  "Space is required": "Space is required",
+  "Space no": "Space no",
+  "Spanish": "Spanish",
+  "Speaker": "Speaker",
+  "Submit": "Submit",
+  "Success!": "Success!",
+  "This email is already registered": "This email is already registered",
+  "Time": "Time",
+  "Title": "Title",
+  "Today is": "Today is",
+  "Toggle columns": "Toggle columns",
+  "Total": "Total",
+  "Un-Check In": "Un-Check In",
+  "Update failed": "Update failed.",
+  "Update successfully": "Update successfully.",
+  "User Management": "User Management",
+  "User deleted": "User deleted",
+  "Vendor": "Vendor",
+  "Vendor Dashboard": "Vendor Dashboard",
+  "Vendor Detail": "Vendor Detail",
+  "Vendor Media Gallery": "Vendor Media Gallery",
+  "Vendor Name": "Vendor Name",
+  "Vendor Registration": "Vendor Registration",
+  "Vendor Registration Completed": "Vendor Registration Completed",
+  "Vendors": "Vendors",
+  "Videos": "Videos",
+  "View": "View",
+  "View Event Map": "View Event Map",
+  "View Event Map Description": "Navigate your way through our event with ease using our detailed event map. The map provides a comprehensive layout of the venue, highlighting key areas and vendors.",
+  "View Event Schedule": "View Event Schedule",
+  "View Event Schedule Description": "Our event schedule is designed to maximize your experience, featuring keynote speakers, breakout sessions, interactive workshops, networking opportunities, and more",
+  "Visitor": "Visitor",
+  "Visitor Registration": "Visitor Registration",
+  "Visitor Type": "Visitor Type",
+  "We've sent a password reset request link to": "We've sent a password reset request link to",
+  "We've sent the details to": "We've sent the details to",
+  "Website": "Website",
+  "Welcome": "Welcome",
+  "You've been registered for the Housing and real estate fair 2024": "You've been registered for the Housing and real estate fair 2024",
+  "Your Interests": "Your Interests",
+  "loading": "Loading...",
+  "address": {
+    "placeholder": {
+      "city": "London",
+      "country": "United Kingdom",
+      "street": "Street, 1",
+      "zip": "WC2N 4DU"
     }
+  },
+  "agree": {
+    "terms": "I agree with the NFT marketplace terms of service"
+  },
+  "agreeTo": "I agree to the ",
+  "alreadyHaveAccount": "Already have an account?",
+  "asset": {
+    "buy": {
+      "title": "Buy",
+      "nft": "Buy NFT"
+    },
+    "contract": {
+      "address": "Contract address"
+    },
+    "creator": "Creator",
+    "current": {
+      "price": "Current price"
+    },
+    "distributed": "Distributed",
+    "gifts": {
+      "title": "Gifts",
+      "description": "By buying this NFT you will get a FREE gift"
+    },
+    "minted": {
+      "pieces": "Minted pieces"
+    },
+    "more": {
+      "from": {
+        "author": "More from this author"
+      }
+    },
+    "owners": "Owners",
+    "purchase": {
+      "done": "Done",
+      "exchange": "Exchange rate",
+      "fail": {
+        "reason": "Insufficient balance in your wallet. Please top up your wallet via Wexo App",
+        "sub": "Your purchase of NFT was not successfull"
+      },
+      "price": "Price",
+      "purchase": "Purchase",
+      "terms": "Accept NFT Terms & Services",
+      "title": "NFT Purchase",
+      "youll": {
+        "pay": "You will pay"
+      }
+    },
+    "sold": "Sold",
+    "starts": {
+      "at": "Starts at"
+    },
+    "you": {
+      "own": "You own"
+    }
+  },
+  "auth": {
+    "emailInUse": "This email is already registered by another user. Each user must have a unique email.",
+    "invalidCredential": "Invalid credential. Please try again.",
+    "invalidEmail": "Invalid email address. Please enter a valid email.",
+    "tooManyAttempts": "Too many login attempts. Please try again later.",
+    "unexpectedError": "We encountered an unexpected issue while processing your request. If the problem persists, contact support.",
+    "userDisabled": "User is disabled. Please contact support.",
+    "userNotfound": "User not found. Please check the email address and try again.",
+    "weakPassword": "The password is too weak. Please choose a stronger password."
+  },
+  "banner": {
+    "subtitle": "Join WEXO and show that you are an innovative company",
+    "title": "Modern entrepreneurs accept cryptocurrencies!",
+    "partners": "Partners",
+    "fromCountries": "from {count} countries",
+    "customers": "Customers",
+    "allAround": "all around the world",
+    "cashback": "in Bitcoin Cashback"
+  },
+  "bought": {
+    "title": "Bought NFTs"
+  },
+  "button": {
+    "choose": {
+      "file": "Choose File"
+    },
+    "create": {
+      "collection": "Create collection",
+      "nft": "Create NFT"
+    },
+    "explore": {
+      "marketplace": "Explore marketplace"
+    },
+    "preview": "Preview",
+    "upload": {
+      "cover": {
+        "photo": "Upload cover photo"
+      },
+      "photo": "Upload photo"
+    }
+  },
+  "categories": {
+    "360image": "360° image",
+    "3dmodel": "3D Model",
+    "all": "All",
+    "art": "Art",
+    "auctions": "Auctions",
+    "buy": {
+      "now": "Buy now"
+    },
+    "collectibles": "Collectibles",
+    "collections": "Collections",
+    "gif": "GIF",
+    "has": {
+      "offers": "Has offers"
+    },
+    "image": "Image",
+    "multiedition": "Multi edition",
+    "music": "Music",
+    "new": "New",
+    "on": {
+      "auction": "On auction"
+    },
+    "oneofone": "1 of 1",
+    "photography": "Photography",
+    "sold": "Sold",
+    "sports": "Sports",
+    "top": "Top",
+    "trending": "Trending",
+    "utility": "Utility",
+    "video": "Video",
+    "videos": "Videos",
+    "virtual": {
+      "worlds": "Virtual worlds"
+    }
+  },
+  "checkbox": {
+    "art": "Art",
+    "music": "Music",
+    "other": "Other",
+    "photo": "Photography",
+    "sport": "Sport",
+    "utility": "Utility",
+    "video": "Video",
+    "virtualwords": "Virtual worlds"
+  },
+  "code_is_required": "The code is required",
+  "confirm-dialog": {
+    "continue": "Continue",
+    "text": "Profile editing was successful."
+  },
+  "cookies": {
+    "all": "Allow all cookies",
+    "analytics": {
+      "title": "Analytical cookies",
+      "description": "This web app uses analytical cookies for data collection to improve our services and experience on the website."
+    },
+    "essential": {
+      "title": "Essential cookies",
+      "description": "Cookies ensure the correct functioning of the web app; disabling them would result in the website not functioning properly."
+    },
+    "only": {
+      "essential": "Allow only essential cookies"
+    },
+    "prompt": {
+      "title": "Allowing cookies may improve your browsing experience. Learn more about cookies here.",
+      "policy": "Cookies policy."
+    },
+    "save": "Save",
+    "settings": "Cookie settings"
+  },
+  "country": {
+    "afghanistan": "Afghanistan",
+    "albania": "Albania",
+    "algeria": "Algeria",
+    "american_samoa": "American Samoa",
+    "andorra": "Andorra",
+    "angola": "Angola",
+    "anguilla": "Anguilla",
+    "antarctica": "Antarctica",
+    "antigua_and_barbuda": "Antigua and Barbuda",
+    "argentina": "Argentina",
+    "armenia": "Armenia",
+    "aruba": "Aruba",
+    "australia": "Australia",
+    "austria": "Austria",
+    "azerbaijan": "Azerbaijan",
+    "bahamas": "Bahamas",
+    "bahrain": "Bahrain",
+    "bangladesh": "Bangladesh",
+    "barbados": "Barbados",
+    "belarus": "Belarus",
+    "belgium": "Belgium",
+    "belize": "Belize",
+    "benin": "Benin",
+    "bermuda": "Bermuda",
+    "bhutan": "Bhutan",
+    "bolivia": "Bolivia (Plurinational State of)",
+    "bonaire_sint_eustatius_and_saba": "Bonaire, Sint Eustatius and Saba",
+    "bosnia_and_herzegovina": "Bosnia and Herzegovina",
+    "botswana": "Botswana",
+    "bouvet_island": "Bouvet Island",
+    "brazil": "Brazil",
+    "british_indian_ocean_territory": "British Indian Ocean Territory",
+    "brunei_darussalam": "Brunei Darussalam",
+    "bulgaria": "Bulgaria",
+    "burkina_faso": "Burkina Faso",
+    "burundi": "Burundi",
+    "cabo_verde": "Cabo Verde",
+    "cambodia": "Cambodia",
+    "cameroon": "Cameroon",
+    "canada": "Canada",
+    "cayman_islands": "Cayman Islands",
+    "central_african_republic": "Central African Republic",
+    "chad": "Chad",
+    "chile": "Chile",
+    "china": "China",
+    "christmas_island": "Christmas Island",
+    "cocos_keeling_islands": "Cocos (Keeling) Islands",
+    "colombia": "Colombia",
+    "comoros": "Comoros",
+    "congo": "Congo",
+    "congo_democratic_republic_of_the": "Congo (Democratic Republic of the)",
+    "cook_islands": "Cook Islands",
+    "costa_rica": "Costa Rica",
+    "croatia": "Croatia",
+    "cuba": "Cuba",
+    "curacao": "Curaçao",
+    "cyprus": "Cyprus",
+    "czechia": "Czech",
+    "côte_d_ivoire": "Côte d'Ivoire",
+    "denmark": "Denmark",
+    "djibouti": "Djibouti",
+    "dominica": "Dominica",
+    "dominican_republic": "Dominican Republic",
+    "ecuador": "Ecuador",
+    "egypt": "Egypt",
+    "el_salvador": "El Salvador",
+    "equatorial_guinea": "Equatorial Guinea",
+    "eritrea": "Eritrea",
+    "estonia": "Estonia",
+    "eswatini": "Eswatini",
+    "ethiopia": "Ethiopia",
+    "falkland_islands_malvinas": "Falkland Islands (Malvinas)",
+    "faroe_islands": "Faroe Islands",
+    "fiji": "Fiji",
+    "finland": "Finland",
+    "france": "France",
+    "french_guiana": "French Guiana",
+    "french_polynesia": "French Polynesia",
+    "french_southern_territories": "French Southern Territories",
+    "gabon": "Gabon",
+    "gambia": "Gambia",
+    "georgia": "Georgia",
+    "germany": "Germany",
+    "ghana": "Ghana",
+    "gibraltar": "Gibraltar",
+    "greece": "Greece",
+    "greenland": "Greenland",
+    "grenada": "Grenada",
+    "guadeloupe": "Guadeloupe",
+    "guam": "Guam",
+    "guatemala": "Guatemala",
+    "guernsey": "Guernsey",
+    "guinea": "Guinea",
+    "guinea_bissau": "Guinea-Bissau",
+    "guyana": "Guyana",
+    "haiti": "Haiti",
+    "heard_island_and_mcdonald_islands": "Heard Island and McDonald Islands",
+    "holy_see": "Holy See",
+    "honduras": "Honduras",
+    "hong_kong": "Hong Kong",
+    "hungary": "Hungary",
+    "iceland": "Iceland",
+    "india": "India",
+    "indonesia": "Indonesia",
+    "iran": "Iran (Islamic Republic of)",
+    "iraq": "Iraq",
+    "ireland": "Ireland",
+    "isle_of_man": "Isle of Man",
+    "israel": "Israel",
+    "italy": "Italy",
+    "jamaica": "Jamaica",
+    "japan": "Japan",
+    "jersey": "Jersey",
+    "jordan": "Jordan",
+    "kazakhstan": "Kazakhstan",
+    "kenya": "Kenya",
+    "kiribati": "Kiribati",
+    "korea_democratic_people_s_republic_of": "Korea (Democratic People's Republic of)",
+    "korea_republic_of": "Korea (Republic of)",
+    "kuwait": "Kuwait",
+    "kyrgyzstan": "Kyrgyzstan",
+    "lao_people_s_democratic_republic": "Lao People's Democratic Republic",
+    "latvia": "Latvia",
+    "lebanon": "Lebanon",
+    "lesotho": "Lesotho",
+    "liberia": "Liberia",
+    "libya": "Libya",
+    "liechtenstein": "Liechtenstein",
+    "lithuania": "Lithuania",
+    "luxembourg": "Luxembourg",
+    "macao": "Macao",
+    "madagascar": "Madagascar",
+    "malawi": "Malawi",
+    "malaysia": "Malaysia",
+    "maldives": "Maldives",
+    "mali": "Mali",
+    "malta": "Malta",
+    "marshall_islands": "Marshall Islands",
+    "martinique": "Martinique",
+    "mauritania": "Mauritania",
+    "mauritius": "Mauritius",
+    "mayotte": "Mayotte",
+    "mexico": "Mexico",
+    "micronesia_federated_states_of": "Micronesia (Federated States of)",
+    "moldova_republic_of": "Moldova (Republic of)",
+    "monaco": "Monaco",
+    "mongolia": "Mongolia",
+    "montenegro": "Montenegro",
+    "montserrat": "Montserrat",
+    "morocco": "Morocco",
+    "mozambique": "Mozambique",
+    "myanmar": "Myanmar",
+    "namibia": "Namibia",
+    "nauru": "Nauru",
+    "nepal": "Nepal",
+    "netherlands": "Netherlands",
+    "new_caledonia": "New Caledonia",
+    "new_zealand": "New Zealand",
+    "nicaragua": "Nicaragua",
+    "niger": "Niger",
+    "nigeria": "Nigeria",
+    "niue": "Niue",
+    "norfolk_island": "Norfolk Island",
+    "north_macedonia": "North Macedonia",
+    "northern_mariana_islands": "Northern Mariana Islands",
+    "norway": "Norway",
+    "oman": "Oman",
+    "pakistan": "Pakistan",
+    "palau": "Palau",
+    "palestine_state_of": "Palestine, State of",
+    "panama": "Panama",
+    "papua_new_guinea": "Papua New Guinea",
+    "paraguay": "Paraguay",
+    "peru": "Peru",
+    "philippines": "Philippines",
+    "pitcairn": "Pitcairn",
+    "poland": "Poland",
+    "portugal": "Portugal",
+    "puerto_rico": "Puerto Rico",
+    "qatar": "Qatar",
+    "romania": "Romania",
+    "russian_federation": "Russian Federation",
+    "rwanda": "Rwanda",
+    "réunion": "Réunion",
+    "saint_barthélemy": "Saint Barthélemy",
+    "saint_helena_ascension_and_tristan_da_cunha": "Saint Helena, Ascension and Tristan da Cunha",
+    "saint_kitts_and_nevis": "Saint Kitts and Nevis",
+    "saint_lucia": "Saint Lucia",
+    "saint_martin_french_part": "Saint Martin (French part)",
+    "saint_pierre_and_miquelon": "Saint Pierre and Miquelon",
+    "saint_vincent_and_the_grenadines": "Saint Vincent and the Grenadines",
+    "samoa": "Samoa",
+    "san_marino": "San Marino",
+    "sao_tome_and_principe": "Sao Tome and Principe",
+    "saudi_arabia": "Saudi Arabia",
+    "senegal": "Senegal",
+    "serbia": "Serbia",
+    "seychelles": "Seychelles",
+    "sierra_leone": "Sierra Leone",
+    "singapore": "Singapore",
+    "sint_maarten_dutch_part": "Sint Maarten (Dutch part)",
+    "slovakia": "Slovakia",
+    "slovenia": "Slovenia",
+    "solomon_islands": "Solomon Islands",
+    "somalia": "Somalia",
+    "south_africa": "South Africa",
+    "south_georgia_and_the_south_sandwich_islands": "South Georgia and the South Sandwich Islands",
+    "south_sudan": "South Sudan",
+    "spain": "Spain",
+    "sri_lanka": "Sri Lanka",
+    "sudan": "Sudan",
+    "suriname": "Suriname",
+    "svalbard_and_jan_mayen": "Svalbard and Jan Mayen",
+    "sweden": "Sweden",
+    "switzerland": "Switzerland",
+    "syrian_arab_republic": "Syrian Arab Republic",
+    "taiwan_province_of_china": "Taiwan, Province of China",
+    "tajikistan": "Tajikistan",
+    "tanzania_united_republic_of": "Tanzania, United Republic of",
+    "thailand": "Thailand",
+    "timor_leste": "Timor-Leste",
+    "togo": "Togo",
+    "tokelau": "Tokelau",
+    "tonga": "Tonga",
+    "trinidad_and_tobago": "Trinidad and Tobago",
+    "tunisia": "Tunisia",
+    "turkey": "Turkey",
+    "turkmenistan": "Turkmenistan",
+    "turks_and_caicos_islands": "Turks and Caicos Islands",
+    "tuvalu": "Tuvalu",
+    "uganda": "Uganda",
+    "ukraine": "Ukraine",
+    "united_arab_emirates": "United Arab Emirates",
+    "united_kingdom": "United Kingdom of Great Britain and Northern Ireland",
+    "united_states_minor_outlying_islands": "United States Minor Outlying Islands",
+    "united_states_of_america": "United States of America",
+    "uruguay": "Uruguay",
+    "uzbekistan": "Uzbekistan",
+    "vanuatu": "Vanuatu",
+    "venezuela_bolivarian_republic_of": "Venezuela (Bolivarian Republic of)",
+    "viet_nam": "Viet Nam",
+    "virgin_islands_british": "Virgin Islands (British)",
+    "virgin_islands_u_s": "Virgin Islands (U.S.)",
+    "wallis_and_futuna": "Wallis and Futuna",
+    "western_sahara": "Western Sahara",
+    "yemen": "Yemen",
+    "zambia": "Zambia",
+    "zimbabwe": "Zimbabwe",
+    "åland_islands": "Åland Islands"
+  },
+  "create": {
+    "back": "Back",
+    "continue": "Continue",
+    "additional": {
+      "tags": "Additional tags"
+    },
+    "address": {
+      "city": "City",
+      "country": "Country",
+      "street": "Street & Number",
+      "zip": "ZIP",
+      "auto": "Auto",
+      "manual": "Manual"
+    },
+    "category": "Category",
+    "collection": "Create collection",
+    "content": {
+      "title": "Content",
+      "placeholder": "Provide a detailed description of your business to your customers"
+    },
+    "creator": "Create Creator profile",
+    "email": "Email",
+    "find": {
+      "your": {
+        "place": "Find a business or enter an address"
+      }
+    },
+    "gallery": {
+      "title": "Gallery",
+      "button": {
+        "add": {
+          "files": "Add files"
+        },
+        "subtext": "or drag files from desktop"
+      }
+    },
+    "nft": "Create NFT",
+    "opening": {
+      "hours": {
+        "title": "Opening hours",
+        "subtext": "When closed, leave empty"
+      }
+    },
+    "partner": "Create my partner",
+    "phone": "Phone",
+    "retain": "Retain contacts",
+    "short": {
+      "description": {
+        "title": "Short description",
+        "placeholder": "A short description about your business"
+      }
+    },
+    "submit": "Create partner",
+    "update": "Update partner",
+    "tooltip": {
+      "address": "Auto will fill in the address fields and set the location based on the location on the map. Manual will allow you to click on custom location and set the contact info manually.",
+      "retain": "When you search for new place, keep : email, phone number and opening hours"
+    },
+    "video": {
+      "youtube": {
+        "title": "Video (YouTube)",
+        "placeholder": "Insert a link to your YouTube video"
+      }
+    },
+    "success": {
+      "title": "Your profile has been successfully registered",
+      "sub": "Subsequently, he will contact you lorem ipsum consectetur adipiscing elit, sed do eiusmod tempor incididunt.",
+      "close": "Close"
+    },
+    "pleaseCheckData": "Please check the entered data.",
+    "basicData": "Basic data",
+    "image": {
+      "upload": "Upload",
+      "sub": "This image will be used to showcase your collection on the home page, category pages or other promotional areas of the WEXO marketplace. 800 x 400 pixels is recommended."
+    },
+    "tags": {
+      "otherBrand": "Other Brand",
+      "search": "Search"
+    }
+  },
+  "createAccount": "Create Account",
+  "createAccountHere": "Create your account here",
+  "dashboard": {
+    "banner": {
+      "partners": {
+        "title": "Modern entrepreneurs accept cryptocurrencies!",
+        "button": "Arrange a consultation",
+        "sub": "Join WEXO and show that you are an innovative company"
+      }
+    },
+    "best": {
+      "partners": {
+        "title": "Best partners",
+        "sub": "Top tips where you can pay with crypto"
+      }
+    },
+    "create": {
+      "partner": "Create a profile",
+      "edit": "Edit profile"
+    },
+    "crypto": {
+      "partners": {
+        "title": "Crypto partners",
+        "sub": "Search by categories",
+        "become": "Become a Wexo"
+      }
+    },
+    "explore": {
+      "collections": "Explore Collections",
+      "marketplace": "Explore Marketplace"
+    },
+    "loginPrompt": "Please log in or register to view your NFTs",
+    "marketplace": "Marketplace",
+    "my": {
+      "gallery": "My gallery",
+      "partners": "My profiles"
+    },
+    "new": {
+      "partners": {
+        "title": "New partners",
+        "sub": "Fresh new offers"
+      }
+    },
+    "points": {
+      "explore": "Explore best crypto friendly partners in your city"
+    },
+    "show": {
+      "all": "Show all"
+    },
+    "view": {
+      "more": "Show more",
+      "add": "Add New Profile"
+    }
+  },
+  "day": {
+    "short": {
+      "friday": "FRI",
+      "monday": "MON",
+      "saturday": "SAT",
+      "sunday": "SUN",
+      "thursday": "THU",
+      "tuesday": "TUE",
+      "wednesday": "WED"
+    }
+  },
+  "description": {
+    "add": {
+      "categories": "Please select max 3 categories"
+    },
+    "auction": {
+      "time": {
+        "limited": "The NFT will receive the highest bid at the selected time"
+      },
+      "unlimited": "The auction will be closed at any time by the NFT creator and the NFT will receive the highest bid."
+    },
+    "banner": {
+      "image": "This image will appear at the top of your collection page. Avoid including toomuch text in this banner image, as the dimensions change on different devices. 1440x430 recomended."
+    },
+    "blockchain": "Select the blockchain you would like to mint on.",
+    "collection": "This is the collection where your item will appear.",
+    "cover": {
+      "photo": "Upload your cover photo. We recommend 1440 x 430 px (JPG, PNG, WEBP)"
+    },
+    "creator": {
+      "earnings": "Collect a fee when a user re-sells an ithem your originally created. This id deducted from the final sale price and paid monthly to a payout address of your choosing. Learn more about creator earnings."
+    },
+    "dashboard": {
+      "create": {
+        "title": "With WEXO you can easily create your own NFT",
+        "add": "Upload your work , add title,description and choose betweenauctions, fixed-price listings and listyour NFT for sale",
+        "profile": "Click My Collections and set up yourcollection. Add social links, adescription, profile & banner images",
+        "set": {
+          "up": "Register or Log in to your WEXO account. Verify your ID and select Create NFT STUDIO PROFILE"
+        }
+      }
+    },
+    "description": "The description will be included on the item’s detail page undemeath its image.",
+    "explicit": {
+      "toggle": "Set this item as explicit and sensitive content"
+    },
+    "external": {
+      "link": "Market place will include a link to this URL on this item’s detail page, so that users can click to learn more about it. You are welcome to link to your own webpage with more detatails"
+    },
+    "featured": {
+      "image": "This image will be used for featuring your collection on the homepage, category pages, or other promotional areas of WEXO marketplace. 800x400 px recomended."
+    },
+    "file": {
+      "upload": "File types supported: JPG, PNG, GIF, SVG, MP4, WEBM, MP3, WAV. Max size: 100 MB"
+    },
+    "freeze": {
+      "metadata": "Freezing your metadata will allow you to permanentlly lock and store all of this item’scontent in decentralized file storage"
+    },
+    "levels": "Numerical traits that show as a progress bar",
+    "logo": {
+      "image": "This image will also be used for navigation. 350x350 px recomended."
+    },
+    "payment": {
+      "tokens": "These tokens can be used to buy and sell your items."
+    },
+    "price": "Service fee is XY %",
+    "profile": {
+      "photo": "We recommend a 500x500px JPG, PNG, WEBP, or GIF (1 MB max size)"
+    },
+    "properties": "Textual traits that show up as rectangles",
+    "stats": "Numerical traits that just show as a number",
+    "supply": "The number of items that can be minted. No gas cost to you!",
+    "unlockable": {
+      "content": "Include unlockable content that can only be revealed by the owner of the item"
+    },
+    "url": "Customize your URL on WEXO marketplace. Must only contain lowercase letters, numbers, and hephens."
+  },
+  "developer": "developer",
+  "documents": {
+    "all": "All",
+    "affiliate": {
+      "conditions": "Affiliate conditions"
+    },
+    "cookie": "Cookie policy",
+    "general": "General Terms and Conditions",
+    "loyalty": "Loyalty program conditions",
+    "nftTos": "NFT Marketplace Terms of Service",
+    "privacy": "Privacy Policy",
+    "social": "Social networks",
+    "terms": {
+      "of": {
+        "service": "Terms of Service"
+      }
+    },
+    "title": "Documents",
+    "tos": "Terms of service",
+    "pd": "Product Conditions",
+    "stalkingTermCondition": "Staking Terms and Conditions",
+    "whitepaper": "Whitepaper",
+    "learnMore": "Learn More",
+    "share": "TOP",
+    "topCashbackDeals": "Top Cashback Deals",
+    "showAllCashbackDeals": "Show all Cashback Deals",
+    "cashbackDeal": "Cashback deal",
+    "btnMore": "More",
+    "dontMiss": "Don't miss",
+    "topBrand": "Top brands",
+    "allColabor": "Show all collaborations",
+    "specialOffer": "Special offers & discounts"
+  },
+  "dontHaveAccount": "Don't have an account?",
+  "email": "Email",
+  "emailAddress": "Email Address",
+  "email_is_required": "Email is required",
+  "enterYourEmailToCreateAccount": "Enter your email below to create your account",
+  "enterYourEmailToLogin": "Enter your email below to login to your account",
+  "error": {
+    "input": {
+      "facebook": "Please make sure https:// is included in the link and is a valid Facebook page link",
+      "instagram": "Please make sure https:// is included in the link and is a valid Instagram page link",
+      "tour": "Make sure the link contains https:// and is a valid link to the VPROMO virtual space tour page",
+      "twitter": "Please make sure https:// is included in the link and is a valid Twitter/X page link",
+      "web": "Please make sure https:// is included in the link"
+    },
+    "make": {
+      "sure": {
+        "to": {
+          "fill": {
+            "required": {
+              "fields": "Make sure to fill the required fields"
+            }
+          }
+        }
+      }
+    },
+    "map": {
+      "manual": "Please select a location on the map by clicking on the map below"
+    },
+    "no": {
+      "results": {
+        "found": "No results found"
+      }
+    },
+    "length": {
+      "name": "Name must be at most 100 characters",
+      "shortDescription": "Short description must be at most 255 characters",
+      "address": "Address must be at most 255 characters",
+      "city": "City must be at most 100 characters",
+      "zip": "ZIP must be at most 20 characters",
+      "phone": "Phone must be at most 30 characters",
+      "email": "Email must be at most 100 characters"
+    },
+    "403": {
+      "title": "Oops! You are not authorized to access this page.",
+      "back": "Go back home"
+    },
+    "404": {
+      "title": "Oops! Page not found.",
+      "back": "Go back home"
+    }
+  },
+  "filter": {
+    "title": "Filter",
+    "advanced": "Advanced Filter",
+    "all": "All",
+    "category": "Category",
+    "nearby": {
+      "search": "Nearby search"
+    },
+    "partner": {
+      "type": "Type of partner"
+    },
+    "radius": {
+      "around": "Radius around selected destination"
+    },
+    "reset": "Reset",
+    "search": "Search all",
+    "findCashbackPoint": "Find your bitcoin or cashback point",
+    "source": "Show all places from the global Bitcoin map BTCmap.org.",
+    "tags": "Tags",
+    "text": {
+      "placeholder": {
+        "title": "What are you looking for?",
+        "mobile": "Find your place"
+      }
+    },
+    "update": "Update",
+    "setLocation": "Set location",
+    "changeLocation": "Change location",
+    "circle": "Circle",
+    "applyFilter": "Apply filter",
+    "location": "Location",
+    "resultFor": "Results for",
+    "yourSearch": "your search"
+  },
+  "financial intermediary": "financial intermediary",
+  "first": "First",
+  "full": {
+    "friday": "Friday",
+    "monday": "Monday",
+    "saturday": "Saturday",
+    "sunday": "Sunday",
+    "thursday": "Thursday",
+    "tuesday": "Tuesday",
+    "wednesday": "Wednesday"
+  },
+  "how-hear-about-us": "How did you hear about us",
+  "incorrect_email_or_password": "Incorrect email or password",
+  "label": {
+    "add": {
+      "categories": "Add to categories"
+    },
+    "auction": {
+      "time": {
+        "limited": "Time limited auction"
+      },
+      "type": "Type of auction",
+      "unlimited": "Unlimited auction"
+    },
+    "banner": {
+      "image": "Banner image"
+    },
+    "bio": "Bio",
+    "blockchain": "Blockchain",
+    "collection": "Collection",
+    "cover": {
+      "photo": "Cover photo"
+    },
+    "creator": {
+      "earnings": "Creator earnings"
+    },
+    "dashboard": {
+      "collect": "Collect your favourite NFT's",
+      "create": {
+        "title": "How to create NFT?",
+        "add": "Add your NFT",
+        "profile": "Create NFT profile",
+        "set": {
+          "up": "Set up your Account"
+        }
+      },
+      "discover": "Discover Marketplace by categories",
+      "new": "Hot new drops",
+      "top": "Top"
+    },
+    "description": "Description",
+    "explicit": {
+      "toggle": "Explicit & sensitive content"
+    },
+    "external": {
+      "link": "External Link"
+    },
+    "featured": {
+      "image": "Featured image"
+    },
+    "file": {
+      "upload": "Image, video, audio or 3D model"
+    },
+    "fixed": {
+      "price": "Fixed price"
+    },
+    "freeze": {
+      "metadata": "Freeze metadata"
+    },
+    "full": {
+      "name": "Full name"
+    },
+    "leaderboard": {
+      "artist": "Top artists",
+      "collection": "Top collections",
+      "deals": "Top deals",
+      "items": "Top items"
+    },
+    "levels": "Levels",
+    "links": "Links",
+    "logo": {
+      "image": "Logo image"
+    },
+    "name": "Name",
+    "nickname": "Nickname",
+    "payment": {
+      "tokens": "Payment tokens"
+    },
+    "price": "Price",
+    "properties": "Properties",
+    "public": {
+      "name": "Public name"
+    },
+    "start": {
+      "auction": "Start auction"
+    },
+    "stats": "Stats",
+    "supply": "Supply",
+    "unlockable": {
+      "content": "Unlockable content"
+    },
+    "upload": {
+      "profile": {
+        "photo": "Upload Profile Photo"
+      }
+    },
+    "url": "URL"
+  },
+  "lang": {
+    "cs": "Czech",
+    "cz": "Czech",
+    "de": "German",
+    "en": "English",
+    "es": "Spanish",
+    "hu": "Hungarian",
+    "pl": "Polish",
+    "pt": "Portuguese",
+    "sk": "Slovak",
+    "ro": "Romanian"
+  },
+  "last": "Last",
+  "login": {
+    "title": "Log in",
+    "email": "Email",
+    "error": {
+      "arrange": {
+        "consultation": "Arrange a consultation"
+      },
+      "email": {
+        "required": "Please enter a valid email"
+      },
+      "is": {
+        "not": {
+          "a": {
+            "business": "is not a business account"
+          }
+        }
+      },
+      "not": {
+        "business": "Not a business account"
+      },
+      "password": {
+        "required": "Please enter a password",
+        "match": "Passwords do not match",
+        "min": "Password must be at least 8 characters",
+        "complexity": "Password must contain at least 8 characters, including one uppercase letter, one lowercase letter and one digit."
+      },
+      "notBusiness": "The provided login credentials do not match a business account or WEXO POS."
+    },
+    "forgot": {
+      "business": "Create a business acount?",
+      "enter": {
+        "code": "Enter code from email and verify your e-mail"
+      },
+      "gen": {
+        "code": "Generate code"
+      },
+      "insert": {
+        "code": "Insert code from e-mail"
+      },
+      "password": "Forgot password?",
+      "sub": "Enter your email address and generate code",
+      "title": "Forgot Password",
+      "verify": "Verify"
+    },
+    "no": {
+      "account": "Don't have an account?"
+    },
+    "password": "Password",
+    "register": {
+      "already": {
+        "have": {
+          "acc": "Already have an account?"
+        }
+      },
+      "personalAccount": "Personal account",
+      "businessAccount": "Business account",
+      "country": "Select Residence Country",
+      "referal": "Referal (optional)",
+      "repeat": "Repeat password",
+      "sub": "Fill in empty fields and create your account for free",
+      "terms": {
+        "title": "By registration I agree with:",
+        "crypto": "Cryptocurrency services conditions",
+        "general": "General terms & conditions",
+        "personal": "Personal information terms & conditions",
+        "required": "Please fill in all the required fields",
+        "opening": "I am opening an account as the person who will operate it and I am a member of statuary body or an authorized person - Manager, Chairman of the Board, Chairman cooperatives and so on."
+      },
+      "title": "Registration",
+      "success": "Account created successfully",
+      "forYourFriends": "Crypto for you and your friends",
+      "invite": "invites you to WEXO",
+      "businessName": "Business Name",
+      "businessId": "Business ID"
+    },
+    "reset": {
+      "change": {
+        "password": "Change password"
+      },
+      "confirm": {
+        "password": "Confirm password"
+      }
+    },
+    "signup": "Sign up",
+    "verify": {
+      "email": "Verify email",
+      "resend": {
+        "title": "Didn't get an email?",
+        "button": "Resend code"
+      },
+      "totp": {
+        "title": "Enter Google Authenticator Verification Code.",
+        "placeholder": "Insert Google Authenticator code",
+        "subtitle": "Paste the verification code from Google Authenticator app on your mobile device in order to login to your account."
+      }
+    },
+    "welcome": {
+      "title": "Welcome to WEXO Crypto Points",
+      "sub": "Enter your email address and password to access your account"
+    }
+  },
+  "map": {
+    "loading": "Loading Points",
+    "navigate": "Navigate"
+  },
+  "marketplace": {
+    "browse": "Browse all NFTs",
+    "look": {
+      "at": {
+        "marketplace": "Look at the marketplace."
+      }
+    },
+    "no": {
+      "nft": "No NFT was purchased."
+    },
+    "recommended": "Recommended NFTs",
+    "title": "Explore NFTs"
+  },
+  "meta": {
+    "2fa-email": {
+      "description": "Two-factor verification via email",
+      "title": "Email Verification"
+    },
+    "2fa-totp": {
+      "description": "Two-factor verification using the authenticator",
+      "title": "Authenticator Verification"
+    },
+    "change-password": {
+      "description": "Change your WEXO password",
+      "title": "Change Password"
+    },
+    "create": {
+      "description": "Create your own WEXO Point quickly and easily",
+      "title": "Create"
+    },
+    "edit": {
+      "description": "Edit your WEXO Point according to your needs",
+      "title": "Edit"
+    },
+    "email-code": {
+      "description": "Verify your email with a code",
+      "title": "Email Code"
+    },
+    "forgot-password": {
+      "description": "Recover your password easily and securely",
+      "title": "Forgot Password"
+    },
+    "index": {
+      "description": "Discover various WEXO Points and their offers",
+      "title": "WEXO Points"
+    },
+    "login": {
+      "description": "Log in to your WEXO account",
+      "title": "Login"
+    },
+    "my": {
+      "description": "Explore and manage your own WEXO Points",
+      "title": "My"
+    }
+  },
+  "month": {
+    "april": "April",
+    "august": "August",
+    "december": "December",
+    "february": "February",
+    "january": "January",
+    "july": "July",
+    "june": "June",
+    "march": "March",
+    "may": "May",
+    "november": "November",
+    "october": "October",
+    "september": "September",
+    "short": {
+      "april": "APR",
+      "august": "AUG",
+      "december": "DEC",
+      "february": "FEB",
+      "january": "JAN",
+      "july": "JUL",
+      "june": "JUN",
+      "march": "MAR",
+      "may": "MAY",
+      "november": "NOV",
+      "october": "OCT",
+      "september": "SEP"
+    }
+  },
+  "navbar": {
+    "Team": "Team",
+    "about": "About us",
+    "app": "App",
+    "articles": "New articles",
+    "blog": "Blog",
+    "card": "Card",
+    "categories": "Categories",
+    "charts": "Charts",
+    "company": "Company",
+    "contact": {
+      "title": "Contact",
+      "sub": "Contact us."
+    },
+    "crypto": "Crypto",
+    "currencies": "Cryptocurrencies",
+    "dividend": {
+      "title": "WEXO profit share",
+      "sub": "Earn and pay lower fees"
+    },
+    "download": {
+      "title": "Download App",
+      "app": "Download the app",
+      "news": "News by e-mail",
+      "email": "Enter your e-mail",
+      "subscribe": "Subscribe to news",
+      "sub": "Download the WEXO app and join thousands of satisfied cryptocurrency users. Find locations near you where you can pay with cryptocurrencies or earn Bitcoin Cashback."
+    },
+    "exchange": "Crypto Exchange",
+    "faq": {
+      "sub": "Find answers to your questions here.",
+      "title": "FAQ"
+    },
+    "from": "from ",
+    "glossary": "Glossary",
+    "lang": {
+      "title": "Language"
+    },
+    "listing": "Listing price",
+    "login": "Login",
+    "loyalty": "Loyalty program",
+    "manage": {
+      "collections": "Manage collections"
+    },
+    "nft": "NFT",
+    "products": "Products",
+    "profile": "Profile",
+    "rate": "Leave a review at",
+    "register": "Sign up",
+    "roadmap": {
+      "h": "Pre-sale phases",
+      "stage": "Phase "
+    },
+    "signOut": "Sign out",
+    "social": "Follow us on social media.",
+    "staking": {
+      "title": "Staking",
+      "sub": "Profit share 30%"
+    },
+    "sub": {
+      "crypto": {
+        "charts": "Up-to-date crypto price overview – bitcoin and other cryptocurrencies",
+        "currencies": "Learn the basics of Bitcoin, Ethereum, and blockchain. Try our guides and tutorials.",
+        "glossary": "Learn the most important crypto terms."
+      },
+      "products": {
+        "app": "The world of crypto at your fingertips",
+        "exchange": "Buy, sell and swap cryptocurrencies quickly and easily.",
+        "nft": "Explore, create, buy, and sell NFTs.",
+        "wallet": "The only CRYPTO & BITCOIN wallet you need."
+      }
+    },
+    "tags": "Popular tags",
+    "token": {
+      "p": "WEXO Token holders can enjoy fee discounts on the WEXO exchange, platform, blockchain, and other products. All our products and services are powered by the WEXO Token.",
+      "title": "Token"
+    },
+    "until": "until ",
+    "wallet": "Wallet",
+    "wt": "WEXO token",
+    "your": {
+      "nfts": "Your NFTs"
+    },
+    "crypto-partners": "Crypto Partners"
+  },
+  "partners": {
+    "all": {
+      "title": "Explore our partners"
+    },
+    "upto": "Up to",
+    "cashback": "back on purchases in Bitcoin",
+    "shop": "Shop & Recieve Cashback",
+    "ratings": "Ratings",
+    "delete": {
+      "title": "Delete",
+      "cancel": "Cancel",
+      "warning": "This action is permanent and cannot be undone.",
+      "confirm": "Are you sure you want to delete this partner?",
+      "description": "Do you want to delete this partner",
+      "success": "Partner deleted successfully",
+      "failed": "Failed to delete partner"
+    },
+    "edit": {
+      "title": "Editing a partner"
+    },
+    "editing": "Editing partner",
+    "explore": "Explore partners",
+    "my": {
+      "subtitle": "Create or manage your partners.",
+      "title": "Explore your profiles"
+    },
+    "no": {
+      "yet": "No partners yet"
+    },
+    "not": {
+      "found": "No partners found"
+    },
+    "opening": {
+      "hours": "to"
+    },
+    "save": {
+      "changes": "Save changes"
+    }
+  },
+  "password": "Password",
+  "password_confirmation": "Your password and password confirmation do not match",
+  "personal-data-for-marketing": "I Consent to the processing of personal data for marketing purposes",
+  "personal-data-for-marketing-title": "Consent to the Processing of Personal Data for Marketing Purposes",
+  "placeholder": {
+    "bio": "Write a short bio about you",
+    "creator": {
+      "earnings": "e.g. 10"
+    },
+    "description": {
+      "collection": "Provide a detailed description of this collection",
+      "nft": "Provide a detailed description of this item"
+    },
+    "freeze": {
+      "metadata": "To freeze your metadata, you must create your item first"
+    },
+    "full": {
+      "name": "Enter your Full name. It is not visible to the other users."
+    },
+    "name": {
+      "collection": "Collection name",
+      "nft": "Item name"
+    },
+    "public": {
+      "name": "Enter the name others will see you under"
+    },
+    "select": {
+      "collection": "Select collection"
+    },
+    "url": "https://yoursite.io/item/123"
+  },
+  "real estate agent": "real estate agent",
+  "recovery_wrong_code": "Your verification code is incorrect",
+  "register-as-vendor": "Register as vendor",
+  "register-as-visitor": "Register as visitor",
+  "register-title": "Register for the Housing and Real Estate Fair 2024",
+  "registration-completed-description": "You have been successfully registered for the 2024 Veltrhnehnutelnosti Event. Please check your email for more details.",
+  "registration-date": "Event Date: 19. - 21. SEPTEMBER 9:00 to 18:00",
+  "registration-for-fair-competition": "I Consent to registration for the fair competition",
+  "registration-for-fair-competition-title": "Consent to registration for the fair competition",
+  "registration-location": "Event Place: Incheba Bratislava hala B1",
+  "required": {
+    "fields": "Required fields"
+  },
+  "signUp": "Sign up",
+  "subtitle": {
+    "create": {
+      "nft": "Buy, sell & mint NFT. Collect NFT or make your own digital art portfolio."
+    }
+  },
+  "termsAndConditions": "Terms and Conditions",
+  "termsAndConditionsInDetail": "We use cookies and other tracking technologies to enhance your browsing experience on our website, to display personalized content and targeted ads, to analyze our website traffic, and to understand where our visitors are coming from.",
+  "title": {
+    "create": {
+      "collection": "Create your collection",
+      "nft": "Create your NFT"
+    }
+  },
+  "url": {
+    "2fa-email": "email-verification",
+    "2fa-totp": "authenticator-verification",
+    "about": "/en/about",
+    "blog": "https://legacy.wexopay.com/blog",
+    "change-password": "change-password",
+    "charts": "https://legacy.wexopay.com/charts",
+    "contact": "/en/contact",
+    "create": "create",
+    "cryptocurrencies": "https://legacy.wexopay.com/cryptocurrencies",
+    "download": "/en/download",
+    "edit": "edit",
+    "email-code": "email-code",
+    "faq": "https://legacy.wexopay.com/faq",
+    "forgot-password": "forgot-password",
+    "glossary": "https://legacy.wexopay.com/glossary",
+    "locale": "EN",
+    "login": "login",
+    "loyalty": "/en/loyalty",
+    "my": "my",
+    "nft": "https://nft.wexopay.com/en",
+    "partner": "partner",
+    "partners": "partners",
+    "staking": "https://legacy.wexopay.com/staking",
+    "team": "/en/about#team",
+    "token": "/en/wexo-token",
+    "wallet": "/en/wallet",
+    "wexo": "/en",
+    "whitepaper": "https://legacy.wexopay.com/legal/Whitepaper_EN.pdf",
+    "crypto-partners": "/en/crypto-partners"
+  },
+  "userbanner": {
+    "my": {
+      "portfolio": "My portfolio"
+    },
+    "total": {
+      "balance": "Total balance"
+    }
+  },
+  "vendor-registration-description": "This is your ticket to a world where new business opportunities are created and innovative ideas are born.",
+  "visitor": "visitor",
+  "visitor-registration-description": {
+    "dear": "Dear Visitor,",
+    "filling-form": "By filling out the form, you will be entered into a drawing for the following prizes:",
+    "prizes": {
+      "1": "1. A stay in Spain/Costa Blanca combined with a tour of properties for sale (flights, accommodation)",
+      "2": "2. A stay in Thailand combined with a tour of properties for sale (flights, accommodation)",
+      "3": "3. A weekend stay in Slovakia – Cottage Visit Telgárt",
+      "4": "4. A designer interior chair from Krošlák company"
+    }
+  },
+  "welcomeInfo": {
+    "soon": "Coming soon",
+    "subTitle": "Buy, sell & mint NFT. Collect NFT or make your own digital art portfolio.",
+    "title": "NFT Marketplace & Studio",
+    "saveForU": "We have saved for you.",
+    "btcCashback": "Bitcoin Cashback",
+    "withPurchase": "With every Purchase"
+  },
+  "giftCard": {
+    "onlinePartner": "Online partner",
+    "title": "Gift Card",
+    "my": "My Gift Cards",
+    "purchase": "Purchase Gift Cards",
+    "value": "Value",
+    "pay": "Pay",
+    "buyNow": "Buy now",
+    "amountIn": "Amount in",
+    "youWillPay": "You will pay",
+    "byAgreement": "By proceeding you agree to the ",
+    "availableIn": "This gift code may only work in",
+    "termsAndConditions": "terms and conditions & disclaimer",
+    "final": "Gift card purchases are final and non-refundable.",
+    "transaction": "Transaction verification",
+    "selectAtLeastTwoOptions": "Select at least two options of transaction verification:",
+    "valueIsTooLow": "Value is too low",
+    "valueIsTooHigh": "Value is too high",
+    "redeem": "Redeem Gift Card",
+    "success": "Gift card purchased successfully",
+    "pending": "Giftcard purchase is still pending. Please check the purchase state later in your gift cards.",
+    "transactionVerification": {
+      "title": "Transaction verification",
+      "description": {
+        "email": "We sent a verification code to your email address. Enter the verification code to continue.",
+        "pin": "Enter the verification code to continue.",
+        "phone": "We sent a verification code to your phone number. Enter the verification code to continue."
+      },
+      "paste": {
+        "pin": "Pin verification code",
+        "email": "Email verification code",
+        "phone": "Phone verification code"
+      }
+    },
+    "tutorial": {
+      "title": "How gift cards work",
+      "step1": "Enter the amount",
+      "step2": "Select or type the amount you want the card to have.",
+      "step3": "Pay with your preferred coin",
+      "step4": "Your payment is confirmed the same minute in most cases.",
+      "step5": "That's it, ready to use it!",
+      "step6": "Redeem your card at your chosen retailer according to their instructions."
+    },
+    "redeem-instructions": {
+      "title": "How to redeem your gift card",
+      "step1": "Step 1: Enter Security CodeEnter Security Code",
+      "description1": "Enter the unique 4-digit security code that was provided with your gift card.",
+      "step2": "Step 2: Redeem Gift CardRedeem Gift Card",
+      "description2": "Click the “Redeem Gift Card” button to activate your gift card. Once activated, the balance will be available for your use.",
+      "step3": "Step 3: Redeem Gift CardConfirmation and Enjoyment",
+      "description3": "A confirmation screen will appear to let you know the card was successfully redeemed. Now you’re ready to use your gift card on our platform. Enjoy your shopping!"
+    }
+  },
+  "about": {
+    "title": "About us",
+    "description": "Join the community of modern entrepreneurs",
+    "sub1": "As a team of crypto enthusiasts, we understand that cryptocurrency adoption will only be possible through a simple and user-friendly application for the general public.",
+    "sub2": "We are doing everything we can to help millions of people explore and use this amazing world of technology daily and contribute to the ongoing revolution. Wexo solves the biggest obstacle from users' perspective so far, which was the complexity of individual blockchains and the possibilities of its daily use.",
+    "weBelieve": "We believe in crypto",
+    "ourMission": "Our mission, vision, and values",
+    "mission": "Mission",
+    "vision": "Vision",
+    "values": "Values",
+    "missionDescription": "Our goal is to create an environment where two worlds meet in one application. The world of traditional finances with the modern world of cryptocurrencies, powered by blockchain, accessible to the general public worldwide. We connect the business environment with customers and think innovatively.",
+    "visionDescription": "We envision a future built on blockchain, where tokenization and cryptocurrencies will cause a revolution in all industries. Wexo represents an intermediary step from the world of traditional finances and technologies to the world of cryptocurrencies, digital assets, modern tokens, and blockchains, contributing to the mass adoption of cryptocurrencies worldwide.",
+    "valuesDescription": "We provide a worldwide service for all users without distinction. We strive to create a global network that makes cryptocurrencies accessible to anyone in the world on a daily basis. We aim to create a global path that makes the world of cryptocurrencies accessible to anyone in the world.",
+    "meetManagement": "Meet our management",
+    "partners": "Partners"
+  },
+  "faq": {
+    "title": "WEXO Support",
+    "description": "Frequently Asked Questions"
+  },
+  "contact": {
+    "title": "Contact us",
+    "description": "Any questions? Interested in WEXO or WEXO Token? Contact our info centre."
+  },
+  "blog": {
+    "title": "WEXO Blog",
+    "description": "Useful crypto tips and tricks for everyone. Up-to-date prices and market reports. Tips on how to buy the best cryptocurrencies."
+  },
+  "download": {
+    "title": "Download the WEXO App",
+    "description": "WEXO wallet – a secure place for your crypto Supports the top cryptocurrencies such as Bitcoin, Ethereum, Litecoin, and many others. Receive and pay with crypto with the WEXO wallet. Buy crypto with your card. The WEXO crypto wallet keeps you updated on the current crypto prices.",
+    "button": "Open Wallet",
+    "download": "Download the new crypto app from WEXO",
+    "newForm": "Your new form of payment."
+  },
+  "wallet": {
+    "title": "Cryptocurrency wallet",
+    "description": "WEXO wallet – a secure place for your crypto Supports the top cryptocurrencies such as Bitcoin, Ethereum, Litecoin, and many others. Receive and pay with crypto with the WEXO wallet. Buy crypto with your card. The WEXO crypto wallet keeps you updated on the current crypto prices.",
+    "features": {
+      "title": "WEXO app's main features",
+      "feature1": "Send, receive and hold your crypto.",
+      "feature2": "Built-in exchange",
+      "feature3": "Real-time charts",
+      "feature4": "Simple portfolio management",
+      "feature5": "Buy Bitcoin and top cryptocurrencies",
+      "feature6": "Secured with face and touch ID"
+    },
+    "storage": {
+      "title": "Safe crypto storage",
+      "description": "Manage your portfolio in the WEXO mobile app."
+    },
+    "currencies": {
+      "stable": "Stablecoins",
+      "crypto": "Crypto coins",
+      "title": "WEXO supports the following cryptocurrencies",
+      "description": "Buy, hold or trade – choose from the supported cryptocurrencies. WEXO supports the top cryptocurrencies such as Bitcoin, Ethereum, or stablecoins.",
+      "button": "Supported cryptocurrencies"
+    },
+    "purchase": {
+      "title": "Buy Bitcoin and cryptocurrencies",
+      "subtitle": "Pay by card – safe and simple.",
+      "description1": "WEXO app provides a fast and simple way to buy bitcoin, ethereum, litecoin, and many others. Buy WEXO Token in pre-sale now with a discount.",
+      "description2": "We regularly add new supported cryptocurrencies. Try buying your first cryptocurrency. Card purchases – fast, simple, and convenient. So simple anyone can do it.",
+      "button": "Buy"
+    },
+    "tabs": {
+      "title": "WEXO: Bitcoin & Crypto wallet",
+      "subtitle": "Hold, manage and trade cryptocurrencies in the app with security ensured through the face or touch ID",
+      "tab1": {
+        "title": "Send, receive and pay with cryptocurrencies",
+        "description": "Simple and fast payments. Receive, send and pay with cryptocurrencies with the WEXO crypto app."
+      },
+      "tab2": {
+        "title": "MSend cryptocurrencies using a phone number",
+        "description": "With the WEXO app, you can send crypto using a phone number, i.e. without knowing the recipient's wallet address."
+      },
+      "tab3": {
+        "title": "Exchange and trading",
+        "description": "Buy, sell and swap cryptocurrencies quickly and easily. Try trading in the WEXO app."
+      },
+      "tab4": {
+        "title": "Cryptocurrency charts and exchange rates",
+        "description": "WEXO brings charts, crypto market, and price updates in a chosen period."
+      },
+      "tab5": {
+        "title": "Card purchase",
+        "description": "Buy cryptocurrencies with a card or safely and easily using Apple Pay or Google Pay. The WEXO app provides a fast and simple way to buy cryptocurrencies."
+      },
+      "tab6": {
+        "title": "Crypto Standing orders",
+        "description": "You can set up cryptocurrency standing orders, even to multiple wallets at once and send the amount specified in crypto or fiat currency."
+      }
+    }
+  },
+  "wexo-token": {
+    "header": "Join our community and ecosystem",
+    "title": "WEXO token",
+    "description1": "With the WEXO Token, you can be more than just its owner. With the WEXO Token, you become part of our community and ecosystem.",
+    "description2": "The WEXO Token is the driving force of the Wexo platform, which, in a simple application, connects the world of traditional money and the modern world of cryptocurrencies supported by blockchain.",
+    "buy": "Buy token",
+    "whitepaper": "Whitepaper",
+    "currentPrice": "Current price",
+    "totalSupply": "Total supply",
+    "getYour": "Get your WEXO Token now!",
+    "gainBenefits": "Gain benefits in our ecosystem and profit",
+    "benefits": {
+      "benefit1": {
+        "title": "Lower service fees",
+        "description": "WEXO Token holders will pay lower service fees thanks to the Loyalty Program. Pay significantly lower fees for provided services and other benefits."
+      },
+      "benefit2": {
+        "title": "Better access to services",
+        "description": "WEXO Token holders will have a better experience and access to selected exclusive ecosystem features."
+      },
+      "benefit3": {
+        "title": "Loyalty Program",
+        "description": "Improved and more attractive Loyalty Program. Earn better and more attractive benefits and rewards according to the achieved level."
+      }
+    },
+    "tokenomics": {
+      "title": "Tokenomics",
+      "description": "Vesting is a key part of the tokenomics of any crypto project. It is the process of holding, locking and releasing tokens of a given project.",
+      "legend": {
+        "label1": "Team & Supporters",
+        "label2": "Reserves",
+        "label3": "Pre-sale",
+        "label4": "Rewards from staking",
+        "label5": "Liquidity",
+        "label6": "Liquidity pool rewards",
+        "label7": "Bounty Program + Airdrop",
+        "label8": "Operations",
+        "label9": "Marketing",
+        "label10": "Reserves"
+      }
+    },
+    "table": {
+      "team": "WEXO Team",
+      "teamAndSupporters": "WEXO Team & Supporters",
+      "community": "WEXO Community",
+      "preSale": "Pre-sale",
+      "stakingRewards": "Rewards from staking",
+      "liquidity": "Liquidity",
+      "liquidityPoolRewards": "Liquidity pool rewards",
+      "ecosystemDevelopment": "Ecosystem development",
+      "bountyProgram": "Bounty Program + Airdrop",
+      "operations": "Operations",
+      "marketing": "Marketing",
+      "reservesAlt": "Reserves",
+      "together": "Together",
+      "percentage": "Percentage",
+      "category": "Category",
+      "description": "Description",
+      "allocation": "Allocation",
+      "tokens": "Tokens",
+      "isTotal": "Total"
+    },
+    "vesting": {
+      "title": "Key vesting function",
+      "description1": "It helps prevent a large number of tokens from flooding the market and thereby lowering the token price and the overall value of the project.",
+      "description2": "It gives the development team time, space, and peace of mind to test, refine, and launch products on their platform.",
+      "description3": "It helps ensure the long-term stability and viability of the crypto startup ecosystem.",
+      "description4": "It helps protect the crypto community from the dishonest practices of big investors.",
+      "description5": "It helps regulate the number of tokens in circulation, which can trigger an increase in the price of a given cryptocurrency."
+    },
+    "contract": {
+      "title": "WEXO Token Contract",
+      "network": "Network",
+      "contract": "Contract",
+      "name": "Name",
+      "symbol": "Symbol"
+    }
+  },
+  "loyalty": {
+    "header": "Earn and pay lower fees",
+    "title": "WEXO Loyalty",
+    "description": "Improved and more attractive Loyalty Program. Earn better and more attractive benefits and advantages based on your activity and current level.",
+    "watch": "Watch video guide",
+    "video": {
+      "title": "How to increase your level?"
+    },
+    "benefits": {
+      "title": "Active users can enjoy these benefits",
+      "benefit1": {
+        "title": "Lower fees",
+        "subtitle": "Get a 17.5% fee discount.",
+        "description": "WEXO Token holders will pay lower service fees thanks to the Loyalty Program. Pay significantly lower fees for provided services and other benefits."
+      },
+      "benefit2": {
+        "title": "Earn cryptocurrencies",
+        "subtitle": "Get a direct reward of up to 10%",
+        "description": "Direct commission in cryptocurrencies from each purchase of WEXO tokens by the invited user."
+      },
+      "benefit3": {
+        "title": "WEXO premium features",
+        "description": "The selected premium \"WEXO features\" are only available to users on upper Loyalty Program levels."
+      }
+    },
+    "achievements": {
+      "title": "You can achieve a higher rank in Loyalty in two ways:",
+      "inviter": "The Inviter's career mainly comprises recommending our WEXO app to your friends in combination with purchasing a symbolic number of WEXO tokens.",
+      "tokener": "As a Tokener, we'll reward you for buying and holding our WEXO tokens in your wallet. That's the only condition you have to fulfil. Progress to a higher level is directly proportional to the number of WEXO tokens in your wallet."
+    },
+    "legend": {
+      "inviter": "Inviter",
+      "tokener": "Tokener",
+      "title": "Become a WEXO Legend",
+      "description": "Download our cryptocurrency app (iPhone/Android), join the Loyalty Program, and become a WEXO legend. Enjoy discounts and benefits, or earn cryptocurrencies and profit thanks to your activity.",
+      "button": "Create wallet",
+      "level": "Level",
+      "fulfilledConditions": "Fulfilled conditions",
+      "reward": "Reward",
+      "fees": "Fees",
+      "profitShare": "Profit Share"
+    }
+  },
+  "privacyPolicy": {
+    "title": "Privacy Policy",
+    "description": "Your privacy is our priority. We understand its protection as a part of our social responsibility. Therefore, we would like to provide you with information on how we process your personal data when providing the Services (either via the website, or via the respective mobile application).",
+    "subtitle": "PRIVACY POLICY WEXOPAY",
+    "general": "Your privacy is our priority. We understand its protection as a part of our social responsibility. Therefore,we would like to provide you with information on how we process your personal data when providing the Services (either via the website, or via the respective mobile application). Words that are not defined in this document and begin with a capital letter have the meaning defined in the ",
+    "basicProvisions": {
+      "title": "Basic Provisions",
+      "first": "1.1 Pursuant to Article 4 (7) of Regulation (EU) 2016/679 of the European Parliament and the Council on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing the Directive 95/46/EC (General Data Protection Regulation) (hereinafterreferred to as \"<strong>GDPR</strong>\"), the data controller is the Company:",
+      "second": "<strong>UPDN ONE s.r.o.</strong>, ID: 026 54 962, with registered, office at Na strži 1702/65, Nusle, 140 00 Prague 4, company registered in the Commercial Register maintained by the Municipal Court in Prague under No. C 221822 (hereinafter referred to as the \"<strong>Administrator</strong>\").",
+      "third": "The Administrator's contact details are:",
+      "fourth": "Address: Na strži 1702/65, Nusle, 140 00 Prague 4",
+      "fifth": "E-mail: info@wexopay.com",
+      "sixth": "1.2. Personal data means any information about an identified or identifiable natural person. An identifiable natural person is a natural person who can be identified, directly or indirectly, in particular by a reference to a specific identifier, such as name, e-mail address, cryptocurrency wallet data, payment account details, location details, network identifier or one or more special elements of the physical, physiological, genetic, mental, economic, cultural or social identity of this natural person.",
+      "seventh": "1.3. The controller undertakes to use, collect and process personal data so that the User and other persons close to him do not suffer any damage to their rights, in particular the controller will ensure protection against unauthorized interference with the private and personal life of the User and his relatives.",
+      "eighth": "1.4. The controller has not appointed a person responsible for personal data protection."
+    },
+    "sourceAndCategories": {
+      "title": "2. Sources and Categories of Personal Data Processed",
+      "first": "2.1. The controller shall process the personal data provided to it by you or personal data which the controller has obtained during provision of the Services.",
+      "second": "2.2. The Controller processes your identification and contact data and data necessary for the performance of the Contract",
+      "third": "2.3. Concluded in compliance with the General Business Terms and Conditions wexo, namely:",
+      "ul": {
+        "li1": "E-mail address;",
+        "li2": "All names and surnames;",
+        "li3": "Citizenship;",
+        "li4": "Place of birth (including the state if a place of birth is outside the Czech Republic);",
+        "li5": "Sex;",
+        "li6": "Permanent or other residence;",
+        "li7": "Type and number of the ID card;",
+        "li8": "State or authority that issued the ID card;",
+        "li9": "Period of validity of the ID card;",
+        "li10": "Payment account number;",
+        "li11": "Phone no;",
+        "li12": "A document confirming the User's address;"
+      },
+      "fifth": "2.4. Likewise, the controller shall process information on use of the website by the User, including the type of used browser, login times, web pages viewed, IP address and web pages that the user visited before accessing the Website;",
+      "sixth": "2.5. Information about the computer or mobile device which the User uses to access the website, including the hardware model, operating system and Internet browser and their versions, unique device identifiers and mobile network information."
+    },
+    "legalBasis": {
+      "title": "3. Legal Basis and Purpose of Personal Data Processing",
+      "first": "3.1. The legal bases for processing personal data are the following:",
+      "ul1": {
+        "li1": "Performance of the Contract between you and the controller pursuant to the Section 6, (1) b) of GDPR,",
+        "li2": "Performance of legal obligations of the controller according to the AML Act (especially the obligation to identify and control the client) and according to the regulations on tax and accounting records;",
+        "li3": "Legitimate interest of the controller in provision of direct marketing (especially for sending commercial messages and newsletters) pursuant to the Section 6, (1) f) of GDPR, your consent with provision for the purposes of provision of direct marketing (especially for sending commercial messages and newsletters) pursuant to the Section 6, (1) a) of GDPR in connection with the Section 7 (2) of the Act No. 480/2004 Coll. on certain Information Society Services in case that no goods or services have been ordered."
+      },
+      "second": "3.2. The Company declares that it considers all personal data of the User as confidential and will use them only for the following purposes:",
+      "ul2": {
+        "li1": "Operating the website and resolving related issues;",
+        "li2": "Adaptation, evaluation and improvement of the website, including monitoring and analysis of trends, uses and activities related to the website;",
+        "li3": "Delivery of marketing announcements, notices about update of provided services and advertising offers based on User preferences;",
+        "li4": "For other purposes for which personal data is collected if such purpose is necessarily envisaged in the actual collection of such data or for purposes otherwise announced on the website at the time of provision of the personal data."
+      },
+      "third": "3.3. There is no automatic individual decision-making by the Controller within the meaning of the Section 22 of the GDPR. You have provided your express consent to such processing."
+    },
+    "dataRetentionPeriod": {
+      "title": "4. Data Retention Period",
+      "first": "4.1. The Controller shall keep the personal data",
+      "ul1": {
+        "li1": "For the time necessary to exercise the rights and obligations arising from the contractual relationship between you and the Controller and to assert claims from these contractual relationships (however, for a maximum of 10 years from termination of the contractual relationship);",
+        "li2": "Data on individual transactions are kept for a period of 10 years from execution of individual transactions; until the consent to the processing of personal data for marketing purposes is revoked, however for a maximum of 5 years, if the personal data are processed on the basis of the consent."
+      },
+      "second": "4.2. After expiration of the retention period, the Controller shall delete the personal data."
+    },
+    "personalDataRecipients": {
+      "title": "5. Personal Data Recipients (Subcontractors of the Controller)",
+      "first": "5.1. Recipients of the personal data are only persons involved in:",
+      "ul1": {
+        "li1": "Ensuring the operation of the website (01People s.r.o., company ID No.: 461 65 151, k Bataku 2780/25 909 01 Skalica, Slovak Republic);",
+        "li2": "Ensuring of e-mail services (SendGrid service from the company Twilio Inc., 375 Beale Street, Suite 300, San Francisco, CA 94105, USA);",
+        "li3": "Ensuring of related services (UPDN ONE s.r.o., ID No.: 026 54 962, with registered office at Na Strži 1702/65, Nusle, 14000 Prague 4, Czech Republic);",
+        "li4": "Issuing and managing the WEXO digital token (W X INTERNATIONAL SOFTWARE TRADING LLC, reg. no. 1735444, located at 23 Boulevard Plaza Tower 2, Dubai, United Arab Emirates, PO box: 418695);",
+        "li5": "Ensuring the operation of the Website and directly related services (CRYPTON DIGITAL, SE, ID No.: 51 051 435, with its registered office at Staré Grunty 18 Bratislava - mestská čtvrt' Karlova Ves 841 04, Slovak Republic);",
+        "li6": "Ensuring of verification of the persons in the digital world (Onfido LTD, 3 Finsbury Avenue, London, England, company number: 07479524)."
+      },
+      "second": "The Controller has no intention to transfer personal data to a third country (i.e. a country outside the EU) or to an international organization, with the exception of the above-mentioned services SendGrid, Mailchimp and Onfido. In this case of the SendGird and Mailchimp services, the transfer of personal data shall be carried out on the basis of incorporation of standard contractual clauses into the agreements on the processing of personal data concluded with these processors. In the case of Onfido, personal data is transferred pursuant to Commission Implementing Regulation EU 2021/1772 of 28 June 2021 pursuant to Regulation (EU) 2016/679 of the European Parliament and of the Council on the adequate protection of personal data by the United Kingdom ",
+      "third": "For more information, please visit the websites of the listed services and the website of the Office for Personal Data Protection.",
+      "fourth": "W X INTERNATIONAL SOFTWARE TRADING LLC has contractually committed that the personal data transferred to it will not leave the EU."
+    },
+    "yourRights": {
+      "title": "6. Your Rights",
+      "first": "6.1. Under the conditions set out in the GDPR, you have",
+      "ul1": {
+        "li1": "A right of access to your personal data under the Section 15 of the GDPR,",
+        "li2": "A right to correct personal data pursuant to the Section 16 of the GDPR, or to restrict theirprocessing under the Section 18 of the GDPR,",
+        "li3": "A right to delete personal data (including cancellation of your registration) pursuant to the Section 17 of the GDPR,",
+        "li4": "A right to raise objection to the processing pursuant to the Section 21 of the GDPR (if your personal data is processed pursuant to the Section 6 (1) (e) or (f) of the GDPR),",
+        "li5": "A right to the data portability (which were provided to the Controller by you) pursuant to the Section 20 of the GDPR, and",
+        "li6": "A right to revoke the consent to processing sent in writing or electronically to the address or e-mail of the Controller."
+      }
+    },
+    "personalDataSecurity": {
+      "title": "7. Personal Data Security",
+      "first": "7.1. The Controller declares that it has taken all appropriate technical and organizational measures to secure the personal data. At the same time, we would like to warn you that no method of data transfer over the Internet is 100% secure and reliable, and therefore the absolute security of your personal data can never be guaranteed.",
+      "second": "7.2. The Controller has taken technical measures to secure data storages and personal data storages in paper form, in particular: passwords, secure operating system, data communication encryption and storage encryption, and maintains an updated antivirus program and all other software.",
+      "third": "7.3. The Controller declares that personal data is accessible only to persons authorized by it and always only to the extent necessary."
+    },
+    "amendments": {
+      "title": "8. Amendments",
+      "first": "8.1. By using the website and/or the mobile application, you express that you have been acknowledged with this Privacy policy. When creating a user account, by confirming the registration you also confirm that you are familiar with the conditions of personal data protection and processing and that you accept them in full.",
+      "second": "8.2. The Controller is entitled to change these conditions. The Controller shall publish a new version of the Privacy Policy on the website, and at the same time inform you about it respectively.",
+      "third1": "8.3. You may exercise your rights described above, as well as ask any questions or file claims by filling in the form published on the website ",
+      "third2": " or by using other contact addresses of the Controller stated in the Article I hereof.",
+      "fourth": "8.4 This updated Privacy Policy shall become effective as from 23rd August July 2022."
+    }
+  },
+  "termsOfService": {
+    "title": "Terms of Service",
+    "description": "Terms of Service and legal information for WEXO Token users. Read about our terms, conditions, and policies.",
+    "subtitle": "WEXOPAY CRYPTOCURRENCY TERMS OF SERVICE",
+    "basicProvisions": {
+      "title": "Basic Provisions",
+      "first": "1.1. Scope. These Terms govern the relationship between you, as a user, and the Company, as operator of the Website and Application, when you buy, sell, manage, receive or send cryptocurrencies through the Website or Application.",
+      "second": "1.2. Definition. Words not defined directly in this document that begin with a capital letter shall have the meaning defined in the ",
+      "generalTerms": "General Terms and Conditions of wexo",
+      "third": "1.3. Priority of conditions. In the event of any conflict between these Terms and Conditions and the General Terms and Conditions, these Terms and Conditions shall prevail."
+    },
+    "buyingAndSellingCryptocurrencies": {
+      "title": "2. Buying and selling cryptocurrencies",
+      "first": "2.1. Order. By completing and confirming the Order Form, the User enters into a Cryptocurrency Purchase or Sale Brokerage Agreement with the Company, whereby the Company agrees to broker the purchase or sale of the Cryptocurrency at the then current exchange rate within twenty-four (24) hours of receipt of the funds or Cryptocurrency.",
+      "second": "2.2. Exchange rates. Our exchange rate for the purchase or sale of cryptocurrencies, which is used to determine the indicative exchange rate and the actual exchange rate, is variable and as such is constantly changing with respect to the situation on the cryptocurrency market. The exchange rate set by us includes all exchange brokerage fees and no other fees are charged for this Service. We always display current exchange rates on the Website and the App.",
+      "third": "2.3. Indicative exchange rate. When completing an order, the user is shown the approximate amount of cryptocurrency to be purchased, or the approximate yield from the sale of the cryptocurrency, both at our current exchange rates.",
+      "fourth": "2.4. Current exchange rate. A cryptocurrency transaction is executed at our current exchange rate within twenty-four (24) hours of receipt of funds or cryptocurrency.",
+      "fifth": "2.5. Cancellation order. A User cannot cancel an order to buy or sell cryptocurrency without the Company's consent.",
+      "sixth": "2.6. Rejection of the order. The Company may reject a user's order to buy or sell cryptocurrency. In such a case, the Company shall not be liable for any losses the User may suffer as a result. The Company may reject a User's order if: <br></br> <br></br> a) there is insufficient quantity of the desired cryptocurrency available on the market; <br></br> b) one of the partner exchanges is not available; <br></br> c) The company has reason to believe that the purpose of the order is illegal; or <br></br> d) The Company has reason to believe that compliance with the Order could have a detrimental effect on the goodwill or reputation of Company",
+      "seventh": "2.7. Fulfilment of the contract. The Company shall fulfil the Contract by crediting the amount of money in cryptocurrency or legal (fiat) currency specified in the instruction to the User's Account."
+    },
+    "withdrawalFromTheContract": {
+      "title": "3. Withdrawal from the contract",
+      "first": " 3.1. Inability to withdraw without cause. The User, who is a consumer within the meaning of the Civil Code, acknowledges that it is not possible to withdraw from the Contract without giving lawful reasons, even within the statutory period of fourteen (14) days, since cryptocurrency is a commodity, the price of which depends on the fluctuations of the financial market independently of the will of the entrepreneur and which may occur during the withdrawal period."
+    },
+    "taxObligations": {
+      "title": "4. Tax obligations",
+      "first": "4.1. User's obligation. User understands that income from the purchase, sale and exchange of cryptocurrencies is subject to income tax. The Company is not responsible for the User's tax liability in any way related to the Scrolls provided. Any income earned by the User under the Agreement shall be taxed by the User in accordance with applicable law."
+    },
+    "cryptocurrencyStorageAndTransfers": {
+      "title": "5. Cryptocurrency storage and transfers",
+      "first": "5.1. Virtual account. All cryptocurrency that the Company provides custody of for Users is recorded in the Virtual Accounts of individual Users. Cryptocurrency is held directly by the Custodian in accordance with the law, but is held on behalf of the User and the User has legal title to the cryptocurrency.",
+      "second": "5.2. Pooled wallets. The cryptocurrency custody of which is provided by the Company for individual Users is stored on pooled cryptocurrency wallets, which also hold the cryptocurrencies of other Users. These cryptocurrency wallets have been created and are secured directly by the Company or by a third party providing cryptocurrency custody services to the Company.",
+      "third": "5.3. Private keys. A user does not have their own private keys to a cryptocurrency until they transfer the cryptocurrency from escrow to their own cryptocurrency wallet. The User can view the current balance of the Cryptocurrency(s) at any time via the Company's Website or the Application.",
+      "fourth": "5.4. Fork. The rules of a particular cryptocurrency can be changed through changes to the cryptocurrency's protocol, which are referred to as a fork. A fork can significantly change the properties, functions, cryptocurrencies; and/or withdraw support for both new cryptocurrencies, even without further action. The Company shall be entitled to retain the balance of the cryptocurrency no longer supported.",
+      "fifth": "5.5. Transfers. On the Website or in the Application, the User can transfer his/her cryptocurrency to his/her own or someone else's cryptocurrency wallet.",
+      "sixth": "5.6. Withdrawal fee: If the user wishes to withdraw its balance (fiat or cryptocurrencies), the user shall proceed according to the instructions provided. Withdrawals are subject to a withdrawal fee. The current amount of withdrawal fee may vary depending on various factors (such as the amount you wish to withdraw, the blockchain load, the complexity of blockchain network, etc.). The user will be notified about the actual amount of withdrawal fee before agreeing with the withdrawal transaction. If the user agrees with the actual amount of withdrawal fee, such withdrawal fee will be automatically deducted from the user's transaction or balance.",
+      "seventh": "5.7. Irreversibility of the transfer. The User is aware that any error in the cryptocurrency address may lead to irreversible loss of cryptocurrency"
+    },
+    "dangersAndRisks": {
+      "title": "6. Dangers and risks of cryptocurrencies",
+      "first": "6.1. High general risks. User acknowledges and understands that any conduct or provision of services related to cryptocurrencies is high risk due to their experimental nature and virtually unpredictable economic and regulatory developments.",
+      "second": "6.2. Decentralised systems. Cryptocurrencies are made up of autonomous and essentially unregulated global computing networks. Due to the absence of central authorities, cryptocurrency transactions are virtually irreversible and errors or theft of cryptocurrencies are thus generally unrecoverable. The value of cryptocurrencies depends on trust in these peertopeer (P2P) networks and their cryptographic security. The evolution of human knowledge and developments in software and hardware may affect the trust in these networks and the value of the cryptocurrencies created in this way.",
+      "third": "6.3. High volatility. Cryptocurrencies are highly volatile. Cryptocurrency exchange rates against conventional (fiat) currencies can experience sharp fluctuations of tens of percent or more, even within a few hours.",
+      "fourth": "6.4. Lack of sectoral regulation. The Principal is aware that for Companies incorporated and domiciled in the Czech Republic and the Slovak Republic (see the General Terms and Conditions of wexo) cryptocurrencies are not electronic money or other funds within the meaning of the Payment Act, as amended, and that according to the Czech National Bank and the National Bank of Slovakia, cryptocurrencies are generally not regulated as transferable securities or other investment instruments within the meaning of the Capital Market Undertakings Act, as amended.",
+      "fifth": "6.5. Lack of sectoral oversight. The provision of services relating to cryptocurrencies (including services under this Agreement) is not subject to supervision by the Czech National Bank and National Bank of Slovakia, nor is it regulated by public authorities in any special way, with exceptions (in particular measures against the laundering of proceeds of crime and terrorist financing). In view of the above, neither are the services provided under this Agreement are investment services within the meaning of that Act on capital market business.",
+      "sixth": "6.6. Risks associated with hacker attacks and other outages. The User acknowledges that cryptocurrency exchanges and other entities providing cryptocurrency-related services, including the Company, are not fully regulated financial market entities, the cryptocurrencies held by them are not insured, and in the event of a hacking attack against such entities or the User's account, in the event of an outage of their services for any other reason, or in the event of a hacking attack against the cryptocurrency network itself, the User may irreversibly lose all funds managed at any time without compensation.",
+      "seventh": "6.7. Unpredictable developments. The user is aware that the above assessment and view of the public authorities may change in the future.",
+      "eighth": "6.8. Disclaimer. In view of the above risks, the Company cannot and shall not be held liable for any developments regarding cryptocurrencies, including the possibility of their complete loss of value, prohibition by the Czech Republic or other nation states (e.g. the state where the user or the Company's subcontractors are located), up to their complete loss or extinction.",
+      "ninth": "6.9. The user assumes all risks. By entering into the Agreement, the User accepts all risks associated with cryptocurrencies"
+    }
+  },
+  "cryptoPartner": {
+    "title": "Crypto Partner",
+    "description": "Join the ranks of modern businesses and entrepreneurs today and use cryptocurrencies to your advantage.",
+    "business": "Wexo Business",
+    "pos": "Wexo POS",
+    "cryptoPoints": "Wexo Crypto Points",
+    "businessProfile": {
+      "partnerProfile": "Partner Profile",
+      "partnerProfileDescription": "Application & web with business profile",
+      "cryptoWallet": "Crypto Wallet",
+      "cryptoWalletDescription": "Buy, sell & exchange cryptocurrencies",
+      "cryptoTransactions": "Crypto Transactions",
+      "cryptoTransactionsDescription": "Send and receive cryptocurrencies",
+      "createNft": "Create NFT",
+      "createNftDescription": "Asset tokenization and offering on NFT marketplace",
+      "wpos": "Wexo POS",
+      "wposDescription": "Virtual Bitcoin Lightning payment terminal",
+      "bitcoinCashback": "Bitcoin Cashback",
+      "bitcoinCashbackDescription": "Rewards for loyal customers in the form of Bitcoin Cashback",
+      "wexoLoyalty": "Loyalty program",
+      "wexoLoyaltyDescription": "Promotions, discounts, cashback and creating special offers",
+      "crm": "Manage customers (CRM)",
+      "crmDescription": "Notifications, emails and customer management"
+    },
+    "benefit": {
+      "instantGlobalPayments": "Instant and global payments",
+      "lowTransactionFees": "Low transaction fees",
+      "professionalMarketingCrm": "Professional marketing CRM",
+      "findNewCustomers": "Find new and better customers",
+      "useCryptoForMarketing": "Use the benefits of cryptocurrencies for marketing",
+      "ownWebPage": "Own web page with profile"
+    },
+    "terminal": {
+      "title": "Wexo POS Terminal",
+      "description": "Accept payments in cryptocurrencies for your goods and services.",
+      "benefit1": "<strong>Virtual terminal</strong> = smartphone application",
+      "benefit2": "<strong>Simple management</strong> of your account",
+      "benefit3": "Overview and <strong>transaction history</strong>",
+      "benefit4": "<strong>Closing balance</strong>",
+      "benefit5": "<strong>Multiple terminals</strong> for one business account (for multiple locations or employees)",
+      "benefit6": "Option for <strong>instant BTC to EUR conversion</strong>"
+    },
+    "bitcoinCashback": {
+      "title": "Bitcoin Cashback",
+      "description": "Reward your loyal customers with Bitcoin after each purchase",
+      "benefit1": "More customers and higher turnover",
+      "benefit2": "Get commissions for registered customers",
+      "benefit3": "Increase customer loyalty",
+      "benefit4": "Cash",
+      "benefit5": "Card",
+      "benefit6": "Invoice",
+      "benefit7": "Bitcoin"
+    },
+    "partners": {
+      "title": "Add yourself to satisfied entrepreneurs"
+    },
+    "contact": {
+      "success": "Your message has been sent successfully",
+      "error": "An error occurred while sending your message",
+      "packagePrice": "Package price",
+      "packagePriceValue": "3 000 Eur with VAT",
+      "haveInterest": "I have interest in the Crypto Partner package",
+      "phone": "Enter your phone number",
+      "contactMe": "Contact me"
+    },
+    "web": {
+      "title": "Partner profile on the web and in the app",
+      "description": "Use cryptocurrencies for marketing with a Crypto Partner profile.",
+      "web1": "Profile in <strong>7 world languages</strong>",
+      "web2": "<strong>Photos and videos</strong>",
+      "web3": "Contact and <strong>opening hours</strong>",
+      "web4": "<strong>Map and address</strong>",
+      "web5": "Ability to add <strong>special offers, discounts, promotions and cashback</strong>",
+      "web6": "Get your own <strong>crypto marketer</strong>",
+      "web7": "<strong>Connect</strong> with entrepreneurs through Wexo"
+    }
+  },
+  "riskWarning": {
+    "title": "Risk Warning: ",
+    "description": "Cryptocurrency trading is associated with high market risk due to the so-called high volatility of the cryptocurrency exchange rate. WEXO strives to select high quality cryptocurrencies, but is not responsible for any losses from your trading activities. The materials on this site are for informational purposes only and should not be considered financial or business strategic advice. Please trade with caution. Before making any investment, you should carefully consider your financial situation, investment objectives and level of tolerance for potential risk."
+  }
 }
